@@ -1,0 +1,25 @@
+h1 {
+	font-color: green;
+	font-weight: bold;
+	padding:12px;
+	border-color: magenta;
+	font-size: 700%;
+	color: rgb(208, 37, 82);}
+h2 {
+	font-size: 200%;}
+
+head {
+	background-color: rgb(141, 182, 0);
+	line-height: 1;
+	font-weight: bold;
+	font-size: 200%;
+	color: rgb(216, 99, 130);
+	padding-top: orange, 10px;}
+body {
+	font-family: apple;
+	background-color: rgb(141, 182, 0);
+	line-height: 2;
+	font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+	font-weight: bold;
+	font-size: 200%;
+	color: rgb(216, 99, 130);}
