@@ -1,7 +1,13 @@
-<style scoped>
-
 body {background-color: green; }
 
-h2 {background-color: purple; }
+h2 {background-color: purple;
+	float-left }
 
 h3 {background-color: magenta; }
+
+.x1 {background-color: purple; float: left; padding: 50px; margin: 50px;}
+.x2 {background-color: #ce37bc; float: left; padding: 50px; margin: 50px;}
+.x3 {background-color: lime; float: left; padding: 50px; margin: 50px;}
+
+head {font-color: orange; font-family: Comic Sans MS;}
+
