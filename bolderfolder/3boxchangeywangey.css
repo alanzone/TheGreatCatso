@@ -1,0 +1,35 @@
+.box1 {
+	background-color: orange;
+	height: 150px;
+	width: 150px;
+	opacity: 0.7;
+
+}
+.box2 {
+	background-color: purple;
+	height: 150px;
+	width: 150px;
+	opacity: 0.7;
+	margin-left: 128px;
+	margin-top: -30px;
+}
+.box3 {
+	background-color: orange;
+	height: 150px;
+	width: 150px;
+	opacity: 0.7;
+	margin-left: 256px;
+	margin-top: -30px;
+
+}
+
+.box1:hover {
+	background-color: purple;
+}
+
+.box2:hover {
+	background-color: orange;
+}
+.box3:hover {
+	background-color: purple;
+}
