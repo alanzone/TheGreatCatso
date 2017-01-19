@@ -20,34 +20,40 @@ body {background-color:#43464B;}
 	height:300px;
 	width:500px;
 	float: top; padding: 50px; margin: 50px;
-	background-opacity: 0.4; 
 	background-size: cover;
+	background-image: url("http://68.media.tumblr.com/a9372f448385c2f68db170faac75c137/tumblr_mxdq33aPvd1r8jkpuo1_500.gif");
+
 }
   
 .box4 {
-	height: 100px;
-	width: 100px;
+	height: 90px;
+	width: 110px;
 	background-color: #DAA520;
-	float: left; padding: 10px; margin: 50px; 
-	image-rendering: auto;
+	float: left; padding: 11px; margin: 50px; 
+	background-size: cover;
+	font-size: 140%;
+	background-image: url("http://www.saltlakesbestpizza.com/wp-content/uploads/2014/04/Wasatch-Menu-inside-without-lone-peak.jpg");
 }
 
 .box5 {
 	background-color: #DAA520;
-	height: 100px;
-	width: 100px;
-	float: left; padding: 10px; margin: 50px; background-size: cover;
-	background-image: cover;
+	height: 90px;
+	width: 110px;
+	float: left; padding: 11px; margin: 50px; background-size: cover;
+	background-size: cover;
+	font-size: 140%;
+	background-image: url("http://www.innhouse.com/images/animatedRESERVATIONS.gif");
 }
 
 .box3 {
 	background-color: #DAA520;
-	height:100px;
-	width:100px;
+	height:90px;
+	width:110px;
 	float: left;
-	padding: 10px; margin: 50px;
-
-	image-rendering: auto;
+	padding: 11px; margin: 50px;
+	background-size: cover;
+	font-size: 140%;
+	background-image: url("http://seospot.net/wp-content/uploads/2014/05/Leave-A-Comment.jpg");
 }
 
 .box1:hover {
@@ -78,6 +84,6 @@ h1 {margin: 0; font-size: 230%;}
 	border-width: 10px;
 }
 
-img {
-	image-rendering: pixelated;
+.imgs {
+
 }
