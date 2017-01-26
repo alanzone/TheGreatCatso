@@ -1,0 +1,77 @@
+@media (max-width: 640px){
+	.title {
+		font-family: "Open Sans", sans-serif;
+		color: black;
+		margin-left: 10%;
+		width: 80%;
+	}
+	.Web1{
+		background-color: red;
+		box-shadow: 5px 5px 5px #888888;
+		height: 65px;
+		width: 80%;
+		margin-left: 10%;
+		float: left;
+	}
+	.Web2{
+		background-color: yellow;
+		box-shadow: 5px 5px 5px #888888;
+		height: 65px;
+		width: 80%;
+		margin-left: 10%;
+		float: left;
+	}
+	.Web3{
+		background-color: green;
+		box-shadow: 5px 5px 5px #888888;
+		height: 65px;
+		width: 80%;
+		margin-left: 10%;
+		float: left;
+	}
+}
+.Web1 {
+	height: 160px; width: 160px;
+	background-color: orange;
+	padding: 15px; margin: 20px;
+	float: left;
+
+}
+.Web2 {
+	height: 160px; width: 160px;
+	background-color: green;
+	padding: 15px; margin: 20px;
+	float: left;
+
+}
+.Web3 {
+	height: 160px; width: 160px;
+	background-color: yellow;
+	padding: 15px; margin: 20px;
+	float: left;
+}
+* {
+    box-sizing: border-box;
+}
+[class*="col-"] {
+    float: left;
+    padding: 15px;
+    border: 1px solid red;
+}
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}

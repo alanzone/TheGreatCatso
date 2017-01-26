@@ -2,9 +2,7 @@
 	width: 800px;
 	margin: 0 auto;
 }
-p.italic {
-    font-style: italic;
-}
+
 
 body {background-color:#43464B;}
 .box1 {
@@ -73,8 +71,6 @@ body {background-color:#43464B;}
 	background-color: #98ff98;
 }
 
-h3 {font-family: cursive; margin: 0;}
-h1 {margin: 0; font-size: 230%;}
 
 .borderpad {
 	height: 1100px;
