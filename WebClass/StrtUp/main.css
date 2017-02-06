@@ -1,0 +1,211 @@
+*{
+002
+margin:0;
+003
+padding:0;
+004
+}
+005
+body {
+006
+background-repeat:no-repeat;
+007
+background-color:#bababa;
+008
+background-image: -webkit-radial-gradient(600px 200px, circle, #eee, #bababa 40%);
+009
+background-image: -moz-radial-gradient(600px 200px, circle, #eee, #bababa 40%);
+010
+background-image: -o-radial-gradient(600px 200px, circle, #eee, #bababa 40%);
+011
+background-image: radial-gradient(600px 200px, circle, #eee, #bababa 40%);
+012
+color:#fff;
+013
+font:14px/1.3 Arial,sans-serif;
+014
+min-height:600px;
+015
+}
+016
+footer {
+017
+background-color:#212121;
+018
+bottom:0;
+019
+box-shadow: 0 -1px 2px #111111;
+020
+display:block;
+021
+height:70px;
+022
+left:0;
+023
+position:fixed;
+024
+width:100%;
+025
+z-index:100;
+026
+}
+027
+footer h2{
+028
+font-size:22px;
+029
+font-weight:normal;
+030
+left:50%;
+031
+margin-left:-400px;
+032
+padding:22px 0;
+033
+position:absolute;
+034
+width:540px;
+035
+}
+036
+footer a.stuts,a.stuts:visited{
+037
+border:none;
+038
+text-decoration:none;
+039
+color:#fcfcfc;
+040
+font-size:14px;
+041
+left:50%;
+042
+line-height:31px;
+043
+margin:23px 0 0 110px;
+044
+position:absolute;
+045
+top:0;
+046
+}
+047
+footer .stuts span {
+048
+font-size:22px;
+049
+font-weight:bold;
+050
+margin-left:5px;
+051
+}
+052
+.container {
+053
+border:3px #111 solid;
+054
+color:#000;
+055
+margin:20px auto;
+056
+padding:15px;
+057
+position:relative;
+058
+text-align:center;
+059
+width:500px;
+060
+border-radius:15px;
+061
+-moz-border-radius:15px;
+062
+-webkit-border-radius:15px;
+063
+}
+064
+#comments form {
+065
+background-color: rgba(255, 255, 255, 0.4);
+066
+margin:10px 0;
+067
+padding:10px;
+068
+text-align:left;
+069
+}
+070
+#comments table td.label {
+071
+color: #000;
+072
+font-size: 13px;
+073
+padding-right: 3px;
+074
+text-align: right;
+075
+width: 105px;
+076
+}
+077
+#comments table label {
+078
+color: #000;
+079
+font-size: 16px;
+080
+font-weight: normal;
+081
+vertical-align: middle;
+082
+}
+083
+#comments table td.field input, #comments table td.field textarea {
+084
+border: 1px solid #96A6C5;
+085
+font-family: Verdana,Arial,sans-serif;
+086
+font-size: 16px;
+087
+margin-top: 2px;
+088
+padding: 6px;
+089
+width: 250px;
+090
+}
+091
+#comments_list {
+092
+background-color: rgba(255, 255, 255, 0.4);
+093
+margin:10px 0;
+094
+padding:10px;
+095
+text-align:left;
+096
+}
+097
+#comments_list .comment {
+098
+border-top:1px solid #000;
+099
+padding:10px 0;
+100
+}
+101
+#comments_list .comment:first-child {
+102
+border-top-width:0px;
+103
+}
+104
+#comments_list .comment span {
+105
+font-size:11px;
+106
+}

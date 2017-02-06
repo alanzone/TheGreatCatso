@@ -819,7 +819,7 @@ pre code {
 }
 
 .container-fluid {
-  position: relative;
+  position: center;
   margin-left: auto;
   margin-right: auto;
   padding-right: 15px;

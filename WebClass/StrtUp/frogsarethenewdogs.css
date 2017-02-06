@@ -1,0 +1,111 @@
+h1 {
+	font-family: 'Roboto', sans-serif;
+}
+
+.jumbotron {
+	background-image: url("https://s.aolcdn.com/dims-shared/dims3/GLOB/crop/1692x897+107+214/resize/660x350!/format/jpg/quality/85/https://s.aolcdn.com/hss/storage/midas/e238a44f4b2b3c4d4202d987a6c81211/204211565/gladiator-movie-russell-crowe.jpg");
+	background-repeat: no-repeat;
+	background-position: 50%;
+	background-size: cover;
+	height: 500px;
+	color: #ffffff;
+
+}
+.nav {display:flex;}
+.dropdown {
+	color: black !important;
+}
+* {
+	color: maroon;
+}
+.bobobob {
+	background-color:white;
+	margin: 0;
+	align-self: center;
+	font-family: "roboto";
+	color: black;
+	height: 200px;
+	width: 400px;
+	margin-left: 400px;
+	margin-top: 100px;
+}
+body {
+	background-color: #7a0303;
+	font-family: "roboto";
+}
+.navbar {
+	object-fit: cover;
+}
+.affix-top {
+	width: 100%;
+	margin-top: 0;
+	float: top left;
+	display: fixed;
+}
+.affix + .container-fluid{
+	padding-top: 70px;
+	float: top;
+}
+a {
+	padding: 10px;
+	color: white !important;
+}
+.container-fluid{
+	margin: 0;
+	height: 100px;
+	font-size: 250%;
+	font-margin: left;
+}
+
+  body {
+      position: relative; 
+  }
+  #section1 {padding-top:50px;height:500px;color: #fff; background-color: #1E88E5;}
+  #section2 {padding-top:50px;height:500px;color: #fff; background-color: #673ab7;}
+  #section3 {padding-top:50px;height:500px;color: #fff; background-color: #ff9800;}
+  #section41 {padding-top:50px;height:500px;color: #fff; background-color: #00bcd4;background-image: url("https://s-media-cache-ak0.pinimg.com/564x/0f/9a/2b/0f9a2b60786755edc25ac8d89622a504.jpg");background-size: cover;}
+  #section42 {padding-top:50px;height:500px;color: #fff; background-color: #009688;}
+#Home {padding-top:40px;height:500px;float:left;}
+  #About {padding-top:40px;height:500px;float:left;}
+  #Partners {padding-top:40px;height:500px;float:left;}
+  #contact {padding-top:40px;height:500px;float:left;}
+  #section42 {padding-top:40px;height:500px;float:left;}
+  #myCarousel{background-color: #292E37;}
+
+.sticky {
+  position: sticky;
+  position: -webkit-sticky;
+  position: -moz-sticky;
+  position: -ms-sticky;
+  position: -o-sticky;
+  top: 10px;
+  z-index: 100;
+}
+
+#bb8{height:11px;color:black;size:small;}
+
+p {
+	font-family: "roboto";color:white;
+}
+
+.tomato {
+	height: 300px;
+	width: 450px;
+	margin: 0;
+	align-self: center;
+	background-image: url("http://www.drodd.com/images14/gladiator32.jpg");
+	background-size: cover;
+	font-family: "roboto";
+	color: white;
+	margin -left: 55px;
+}
+.maroonsharper {
+	height: 40px;
+	width: 40px;
+	background-image:url(http://www.clipartkid.com/images/282/spartan-helmet-picture-clipart-best-QCkx5F-clipart.gif);
+	background-size: cover;
+}
+q {
+	font-family: "roboto";
+	font-size: 12pt;
+	color: white !important;}
